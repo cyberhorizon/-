@@ -19,7 +19,7 @@ public class byteerrorexample {
         System.out.println(var6);
         */
           
-         /* 실행하면 아래와 같은 오류코드가 뜨는데
+         /* 주석부분의 코드를 실행하면 아래와 같은 오류코드가 뜨는데
           * Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
 	        Type mismatch: cannot convert from int to byte
 	        Type mismatch: cannot convert from int to byte
