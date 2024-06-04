@@ -1,4 +1,5 @@
 //2진수 8진수 10진수 16진수
+//메모리 사용 크기:byte=8bit short=16bit int=32bit long=64bit
 package ch02.sec02;
 
 public class IntegerLiterExample {
