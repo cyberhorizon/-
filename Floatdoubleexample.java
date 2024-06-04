@@ -1,7 +1,9 @@
 //실수
 //double,float 함수가 실수에 해당
-//double 허용범위:1.4*10(-45) ~ 3.4*10(38)
-//float 허용범위:4.9*10(-324)~1.8*(108)
+//double 허용범위:1.4*10(-45) ~ 3.4*10(38)  유효 소수 이하 자리:15자리
+//double 메모리 크기:8byte,64bit
+//float 허용범위:4.9*10(-324)~1.8*(108) 유효 소수 이하 자리:7자리
+//float 메모리 크기 4byte,32bit 
 package ch02.sec04;
 
 public class Floatdoubleexample {
